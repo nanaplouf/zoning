@@ -1,0 +1,18 @@
+body{
+    margin: 0 auto;
+}
+
+header, footer {
+    background: pink;
+    height: 100px;
+    width: 100%;
+}
+
+h1{
+    margin-top: 0;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
